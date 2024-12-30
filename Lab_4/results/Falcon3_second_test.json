@@ -1,0 +1,46 @@
+[
+    {
+        "timestamp": "2024-12-30T09:43:47.338975",
+        "model": "Falcon3",
+        "prompt": "What is the capital of France?",
+        "response": "The capital of France is Paris.",
+        "total_duration": 8064882125,
+        "total_duration_seconds": 8.064882125,
+        "prompt_eval_count": 16,
+        "eval_count": 8,
+        "done_reason": "stop"
+    },
+    {
+        "timestamp": "2024-12-30T09:43:48.218581",
+        "model": "Falcon3",
+        "prompt": "Tell me a joke.",
+        "response": "Sure, here's a light-hearted one for you: Why don't scientists trust atoms? Because they make up everything!",
+        "total_duration": 875603006,
+        "total_duration_seconds": 0.875603006,
+        "prompt_eval_count": 14,
+        "eval_count": 28,
+        "done_reason": "stop"
+    },
+    {
+        "timestamp": "2024-12-30T09:44:02.993680",
+        "model": "Falcon3",
+        "prompt": "Explain quantum physics in simple terms.",
+        "response": "Quantum physics, or quantum mechanics, is a branch of physics that studies the behavior of particles at the smallest scales, like atoms and subatomic particles such as electrons and photons. Here's a simplified explanation:\n\n- **Quantum vs. Classical**: Unlike classical physics which deals with large objects like cars and planets, quantum physics handles the microscopic world where particles don't behave as expected. For example, in classical physics, if you know where a ball is and how fast it's moving, you can predict its future location accurately. But in quantum physics, particles like electrons don't have definite positions and velocities simultaneously. This principle is known as the Heisenberg Uncertainty Principle.\n\n- **Wave-Particle Duality**: Quantum particles exhibit both wave-like and particle-like properties. Light, for instance, can behave as a wave (interfering with itself like ripples in water) or as a particle (photons). Similarly, electrons can sometimes act as if they are particles and other times as waves.\n\n- **Quantum Superposition**: This is the idea that a particle can exist in multiple states at once until it is observed or measured. Imagine a coin spinning in the air\u2014while it's spinning, you could say it's both heads and tails; only when it lands does it show one state definitively.\n\n- **Quantum Entanglement**: Particles can become entangled, meaning the state of one particle is directly related to the state of another, no matter how far apart they are. If you measure a property of one entangled particle, you instantly know the state of the other, even if it's light-years away.\n\n- **Quantum Tunneling**: Particles can pass through barriers that they shouldn't be able to cross according to classical physics. Imagine a ball trying to jump over a wall; classically, it would just bounce back. But in quantum physics, there's a tiny chance the ball could suddenly appear on the other side of the wall.\n\nThese principles lead to technologies like lasers, semiconductors, and quantum computers, which exploit these unique behaviors to perform tasks that are either impossible or impractical with classical methods. Despite its complexity, quantum physics remains one of the most successful and accurate theories in explaining the natural world.",
+        "total_duration": 14772379328,
+        "total_duration_seconds": 14.772379328,
+        "prompt_eval_count": 16,
+        "eval_count": 473,
+        "done_reason": "stop"
+    },
+    {
+        "timestamp": "2024-12-30T09:44:05.409065",
+        "model": "Falcon3",
+        "prompt": "Why is the sky blue?",
+        "response": "The sky appears blue because of a phenomenon called Rayleigh scattering. As sunlight enters Earth's atmosphere, it collides with air molecules and tiny particles, causing the light to scatter in all directions. Blue light has shorter wavelengths and is scattered more than other colors like red or yellow. This scattered blue light reaches our eyes from all parts of the sky, making it appear blue.",
+        "total_duration": 2412155671,
+        "total_duration_seconds": 2.412155671,
+        "prompt_eval_count": 15,
+        "eval_count": 77,
+        "done_reason": "stop"
+    }
+]
