@@ -1,0 +1,35 @@
+[
+    {
+        "timestamp": "2024-12-30T09:44:31.746454",
+        "model": "Falcon3",
+        "prompt": "What is the revenue mentioned in the document?",
+        "response": "I don't know.",
+        "total_duration": 8284270698,
+        "total_duration_seconds": 8.284270698,
+        "prompt_eval_count": 202,
+        "eval_count": 7,
+        "done_reason": "stop"
+    },
+    {
+        "timestamp": "2024-12-30T09:44:32.650802",
+        "model": "Falcon3",
+        "prompt": "What are the company's future goals?",
+        "response": "In 2024, ExampleCorp aims to expand into the healthcare industry and launch new AI products.",
+        "total_duration": 901439844,
+        "total_duration_seconds": 0.901439844,
+        "prompt_eval_count": 202,
+        "eval_count": 23,
+        "done_reason": "stop"
+    },
+    {
+        "timestamp": "2024-12-30T09:44:34.572074",
+        "model": "Falcon3",
+        "prompt": "Explain the key highlights of the company's AI platform.",
+        "response": "ExampleCorp's AI Platform X automates workflows, enhancing efficiency across industries. Additionally, Analytics Pro offers real-time customer behavior insights, driving strategic decision-making. The company aims to expand into healthcare and launch new AI products in 2024.",
+        "total_duration": 1918084557,
+        "total_duration_seconds": 1.918084557,
+        "prompt_eval_count": 205,
+        "eval_count": 53,
+        "done_reason": "stop"
+    }
+]

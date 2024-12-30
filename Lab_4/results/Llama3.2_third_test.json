@@ -1,0 +1,35 @@
+[
+    {
+        "timestamp": "2024-12-30T09:44:42.743984",
+        "model": "Llama3.2",
+        "prompt": "What is the revenue mentioned in the document?",
+        "response": "The revenue of ExampleCorp grew by 20% in 2023, but the actual figure is not specified in the provided context. It's only mentioned as a percentage increase. I don't know the exact revenue amount.",
+        "total_duration": 8169817338,
+        "total_duration_seconds": 8.169817338,
+        "prompt_eval_count": 195,
+        "eval_count": 46,
+        "done_reason": "stop"
+    },
+    {
+        "timestamp": "2024-12-30T09:44:43.033956",
+        "model": "Llama3.2",
+        "prompt": "What are the company's future goals?",
+        "response": "ExampleCorp plans to expand into the healthcare industry in 2024, as well as launch new AI products.",
+        "total_duration": 286360560,
+        "total_duration_seconds": 0.28636056,
+        "prompt_eval_count": 194,
+        "eval_count": 23,
+        "done_reason": "stop"
+    },
+    {
+        "timestamp": "2024-12-30T09:44:43.580230",
+        "model": "Llama3.2",
+        "prompt": "Explain the key highlights of the company's AI platform.",
+        "response": "The key highlight of ExampleCorp's AI Platform X is its ability to automate workflows, allowing businesses to streamline their operations. No additional details about the platform are provided in the given context. I don't know any further specifics about the platform.",
+        "total_duration": 543214416,
+        "total_duration_seconds": 0.543214416,
+        "prompt_eval_count": 197,
+        "eval_count": 49,
+        "done_reason": "stop"
+    }
+]
